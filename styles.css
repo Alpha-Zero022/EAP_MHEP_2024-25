@@ -38,6 +38,9 @@
 }
 
 .figcaption {
+  color:rgb(32, 112, 249);
+  font-size: 20px;
+  font-weight: 700;
   margin: 20px 100px;
   padding: 20px 100px;
   text-align: center;
